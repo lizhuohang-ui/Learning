@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="OLED" targetName="OLED.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77af6195-ad7b-453f-82ae-549d22d6a5b7" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/../LCD_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/LCD_test.elf.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.map" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/LCD_test.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../LCD_test/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLED.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/OLED.ioc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OLED.elf.dir/ASM.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OLED.elf.dir/ASM.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OLED.elf.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OLED.elf.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OLED.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OLED.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OLED.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/OLED.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OLED.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/OLED.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OLED.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/OLED.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OLED.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/OLED.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OLED.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/OLED.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motor_control/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../motor_control/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motor_control/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../motor_control/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2FD6S49OjHL3grY7A24ARpLyEFN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Core/Src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.cidr.embedded.config" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Clion\Project\STM32_Project\OLED\Core\Src" />
+      <recent name="D:\Clion\Project\STM32_Project\OLED\Core\Inc" />
+      <recent name="D:\Clion\Project\STM32_Project\OLED" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake 应用程序.OLED.elf">
+    <configuration name="OLED.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OLED" TARGET_NAME="OLED.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OLED" RUN_TARGET_NAME="OLED.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD OLED" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OLED" TARGET_NAME="OLED.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="OLED" RUN_TARGET_NAME="OLED.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\Clion\Project\STM32_Project\OLED\dap.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.OLED.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD OLED" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="77af6195-ad7b-453f-82ae-549d22d6a5b7" name="默认变更列表" comment="" />
+      <created>1664014305427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664014305427</updated>
+      <workItem from="1664014318196" duration="4328000" />
+      <workItem from="1664033529077" duration="617000" />
+      <workItem from="1664081122443" duration="725000" />
+      <workItem from="1664085255909" duration="7559000" />
+      <workItem from="1664104522300" duration="758000" />
+      <workItem from="1664105296671" duration="4000" />
+      <workItem from="1664114248932" duration="81000" />
+      <workItem from="1664114355525" duration="78000" />
+      <workItem from="1676233835888" duration="48000" />
+      <workItem from="1676641693793" duration="39000" />
+      <workItem from="1676988666130" duration="93000" />
+      <workItem from="1676988822446" duration="1744000" />
+      <workItem from="1676990987657" duration="1010000" />
+      <workItem from="1676995475880" duration="701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

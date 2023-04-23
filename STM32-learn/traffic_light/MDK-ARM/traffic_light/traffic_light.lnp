@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"traffic_light\startup_stm32f103x6.o"
+"traffic_light\traffic_light.o"
+"traffic_light\nixie.o"
+"traffic_light\main.o"
+"traffic_light\stm32f1xx_it.o"
+"traffic_light\stm32f1xx_hal_msp.o"
+"traffic_light\stm32f1xx_hal_gpio_ex.o"
+"traffic_light\stm32f1xx_hal_tim.o"
+"traffic_light\stm32f1xx_hal_tim_ex.o"
+"traffic_light\stm32f1xx_hal.o"
+"traffic_light\stm32f1xx_hal_rcc.o"
+"traffic_light\stm32f1xx_hal_rcc_ex.o"
+"traffic_light\stm32f1xx_hal_gpio.o"
+"traffic_light\stm32f1xx_hal_dma.o"
+"traffic_light\stm32f1xx_hal_cortex.o"
+"traffic_light\stm32f1xx_hal_pwr.o"
+"traffic_light\stm32f1xx_hal_flash.o"
+"traffic_light\stm32f1xx_hal_flash_ex.o"
+"traffic_light\stm32f1xx_hal_exti.o"
+"traffic_light\system_stm32f1xx.o"
+--strict --scatter "traffic_light\traffic_light.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "traffic_light.map" -o traffic_light\traffic_light.axf

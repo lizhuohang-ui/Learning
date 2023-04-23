@@ -1,0 +1,1 @@
+MinGW not found at: D:\Vscode\Mingw\mingw64 Configure Disable profile

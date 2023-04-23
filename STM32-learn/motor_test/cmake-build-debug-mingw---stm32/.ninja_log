@@ -1,0 +1,26 @@
+# ninja log v5
+396	490	7028364489236883	CMakeFiles/motor_test.elf.dir/startup/startup_stm32f103xe.s.obj	7c942bf51db62f1e
+20	230	7028364486375426	CMakeFiles/motor_test.elf.dir/Core/Src/main.c.obj	8bb13c1443f86a7
+1	158	7028364485905424	CMakeFiles/motor_test.elf.dir/Core/Src/gpio.c.obj	9afb03b7d40f480a
+11	218	7028364486335427	CMakeFiles/motor_test.elf.dir/Core/Src/retarget.c.obj	65645aee5f930ba9
+29	193	7028364486235424	CMakeFiles/motor_test.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj	91c54e72b39f3e22
+40	206	7028364486245425	CMakeFiles/motor_test.elf.dir/Core/Src/system_stm32f1xx.c.obj	9304380421f8c2e2
+62	257	7028364486675427	CMakeFiles/motor_test.elf.dir/Core/Src/syscalls.c.obj	72711a2453c61865
+51	242	7028364486495423	CMakeFiles/motor_test.elf.dir/Core/Src/stm32f1xx_it.c.obj	8d382f9679e6d923
+72	267	7028364486781078	CMakeFiles/motor_test.elf.dir/Core/Src/usart.c.obj	d43902ec8a1681d
+84	279	7028364486911074	CMakeFiles/motor_test.elf.dir/Core/Src/tim.c.obj	fec465beaaa32495
+98	292	7028364487161068	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	210c442636023b04
+194	373	7028364488051165	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	c91082815e171d27
+218	409	7028364488221070	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	838f36f6672bbb94
+206	396	7028364488221070	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	95807c695f1050c6
+257	422	7028364488421065	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	8144fb406919d603
+230	423	7028364488451093	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	125b5a4d32c5234b
+159	385	7028364488091069	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	23366ace3bbe8d39
+243	441	7028364488721081	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	16ac32bc4141aa70
+374	522	7028364489546868	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	e48872541eb51180
+267	437	7028364488691065	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	e432b986200466d9
+280	481	7028364489146871	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	b54a9a7a8ac39f00
+293	567	7028364490006866	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	c5ab004317243796
+409	656	7028364490886914	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	39fc05abb14d386
+385	796	7028364492292076	CMakeFiles/motor_test.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	8a24ff00cacee88f
+796	976	7028364493631334	motor_test.elf	e23f9e063bb607ec

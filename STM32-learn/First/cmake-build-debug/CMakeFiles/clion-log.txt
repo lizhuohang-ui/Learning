@@ -1,0 +1,5 @@
+"D:\Clion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\Clion\Project\STM32_Project\First -B D:\Clion\Project\STM32_Project\First\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Clion/Project/STM32_Project/First/cmake-build-debug
